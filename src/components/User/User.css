@@ -1,0 +1,15 @@
+
+.user-container {
+  display: flex;
+  position: relative;
+}
+.user-content {
+  width: 80%;
+  border-right: 1px solid lightgrey;
+  margin-right: 10px;
+}
+.user-count {
+  position: fixed;
+  top: 0;
+  right: 6%;
+}
