@@ -26,4 +26,3 @@ const Single = (props) => {
 };
 
 export default Single;
-<h1>I am from Single</h1>;
